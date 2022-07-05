@@ -1,0 +1,16 @@
+CH	MCP	XYT
+#GSI MCP 1
+0    	0	X
+1	    0	Y
+2	    0	T
+#GSI MCP 2
+3    	1	X
+4   	1	Y
+5   	1	T
+# Koeln MCP
+6   	2	X
+7  	    2	Y
+12  	2	T
+8   	3	X
+9   	3	Y
+12  	3	T
